@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Amazon RedShift vs RedShift Spectrum vs Amazon EMR - A comparison - AWS Certification
+title:      Amazon RedShift vs RedShift Spectrum vs Amazon EMR - A comparison - AWS Certification Cheat Sheet
 date:       2020-07-15 12:31:19
 summary:    Let's get a quick overview of the big data options in AWS - Amazon RedShift vs RedShift Spectrum vs Amazon EMR. We will look at important certification questions regarding Amazon RedShift vs RedShift Spectrum vs Amazon EMR. 
 categories:  AWS_CLOUD AWS_DATABASES
@@ -21,11 +21,11 @@ Let's get a quick overview of the big data options in AWS - Amazon RedShift vs R
 - [Amazon EMR - Storage Types](#amazon-emr---storage-types)
 - [Comparison and Certification Questions - Amazon Redshift and EMR](#comparison-and-certification-questions---amazon-redshift-and-emr)
 
-## AWS Certification - 25 PDF Cheat Sheets + Free Course
+## AWS Certification Study Material and Notes - 25 PDF Cheat Sheets
 
 Each cheat sheet contains:
 - FAQs and Tutorials with 5-20 slides
-- Notes to quickly review and prepare for certification exam
+- Study Material and Notes to quickly review and prepare for certification exam
 - Certification Exam Tips
 - Certification and Interview Scenario Questions
 

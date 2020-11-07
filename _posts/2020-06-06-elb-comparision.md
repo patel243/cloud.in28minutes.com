@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Elastic Load Balancers - Application Load Balancer vs Network Load Balancer vs Classic Load Balancer (ALB vs NLB vs CLB) - AWS Certification
+title:      Elastic Load Balancers - Application Load Balancer vs Network Load Balancer vs Classic Load Balancer (ALB vs NLB vs CLB) - AWS Certification Cheat Sheet
 date:       2020-06-06 12:31:19
 summary:    Let's get a quick overview of Elastic Load Balancers from an AWS certification perspective. We will look at important certification questions regarding Elastic Load Balancers - Application Load Balancer vs Network Load Balancer vs Classic Load Balancer (ALB vs NLB vs CLB). 
 categories:  AWS_CLOUD ELB
@@ -15,11 +15,11 @@ Let's get a quick overview of Elastic Load Balancers from an AWS certification p
 - How do they compare - Application Load Balancer vs Network Load Balancer vs Classic Load Balancer (ALB vs NLB vs CLB)?
 - How do you choose - Application Load Balancer vs Network Load Balancer vs Classic Load Balancer (ALB vs NLB vs CLB)?
 
-## AWS Certification - 25 PDF Cheat Sheets + Free Course
+## AWS Certification Study Material and Notes - 25 PDF Cheat Sheets
 
 Each cheat sheet contains:
 - FAQs and Tutorials with 5-20 slides
-- Notes to quickly review and prepare for certification exam
+- Study Material and Notes to quickly review and prepare for certification exam
 - Certification Exam Tips
 - Certification and Interview Scenario Questions
 

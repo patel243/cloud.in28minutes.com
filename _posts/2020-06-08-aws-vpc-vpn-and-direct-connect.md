@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      AWS VPN vs AWS Direct Connect vs Software VPN vs CloudHub -  AWS Certification
+title:      AWS VPN vs AWS Direct Connect vs Software VPN vs CloudHub - AWS Certification Cheat Sheet
 date:       2020-09-21 00:31:19
 summary:    Let's compare the options to connect AWS network with your corporate network -  AWS VPN vs AWS Direct Connect vs Software VPN vs AWS VPN CloudHub from an AWS certification perspective. 
 categories:  AWS_CLOUD AWS_VPC
@@ -16,11 +16,11 @@ Let's compare the options to connect AWS network with your corporate network -  
 - Comparison - AWS VPN vs AWS Direct Connect vs Software VPN vs AWS VPN CloudHub
 - When do we use - AWS VPN vs AWS Direct Connect vs Software VPN vs CloudHub?
 
-## AWS Certification - 25 PDF Cheat Sheets + Free Course
+## AWS Certification Study Material and Notes - 25 PDF Cheat Sheets
 
 Each cheat sheet contains:
 - FAQs and Tutorials with 5-20 slides
-- Notes to quickly review and prepare for certification exam
+- Study Material and Notes to quickly review and prepare for certification exam
 - Certification Exam Tips
 - Certification and Interview Scenario Questions
 

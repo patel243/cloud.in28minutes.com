@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      AWS Elastic Load Balancers - ELB Fundamentals - AWS Certification
+title:      AWS Elastic Load Balancers - ELB Fundamentals - AWS Certification Cheat Sheet
 date:       2020-06-06 12:31:19
 summary:    Let's get a quick overview of Elastic Load Balancers from an AWS certification perspective. We will look at important certification questions regarding Elastic Load Balancers. 
 categories:  AWS_CLOUD ELB
@@ -16,11 +16,11 @@ Let's get a quick overview of Elastic Load Balancers from an AWS certification p
 - What is a Target Group?
 - What is a Listener?
 
-## AWS Certification - 25 PDF Cheat Sheets + Free Course
+## AWS Certification Study Material and Notes - 25 PDF Cheat Sheets
 
 Each cheat sheet contains:
 - FAQs and Tutorials with 5-20 slides
-- Notes to quickly review and prepare for certification exam
+- Study Material and Notes to quickly review and prepare for certification exam
 - Certification Exam Tips
 - Certification and Interview Scenario Questions
 

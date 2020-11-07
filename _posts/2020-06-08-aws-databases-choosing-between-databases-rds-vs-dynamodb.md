@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Choosing AWS Databases - RDS vs DynamoDB vs Redshift - AWS Certification
-date:       2020-06-23 12:31:19
+title:      Choosing AWS Databases - RDS vs DynamoDB vs Redshift - AWS Certification Cheat Sheet
+date:       2020-09-20 12:31:19
 summary:    Let's get a quick overview of how you can choose between different AWS Databases. How do you choose RDS vs DynamoDB vs Redshift?
 categories:  AWS_CLOUD AWS_DATABASES
 permalink:  /aws-certification-choosing-aws-databases
@@ -15,11 +15,11 @@ Let's get a quick overview of how you can choose between different AWS Databases
 - What are the differences between RDS vs DynamoDB vs Redshift?
 - When do you use RDS vs DynamoDB vs Redshift?
 
-## AWS Certification - 25 PDF Cheat Sheets + Free Course
+## AWS Certification Study Material and Notes - 25 PDF Cheat Sheets
 
 Each cheat sheet contains:
 - FAQs and Tutorials with 5-20 slides
-- Notes to quickly review and prepare for certification exam
+- Study Material and Notes to quickly review and prepare for certification exam
 - Certification Exam Tips
 - Certification and Interview Scenario Questions
 

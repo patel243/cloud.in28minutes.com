@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Virtual Private Cloud and Subnet Fundamentals - VPC - AWS Certification
+title:      Virtual Private Cloud and Subnet Fundamentals - VPC - AWS Certification Cheat Sheet
 date:       2020-09-12 12:31:19
 summary:    Let's get a quick overview of Virtual Private Cloud and Subnets from an AWS certification perspective. We will look at important certification questions regarding Virtual Private Cloud and Subnets. 
 categories:  AWS_CLOUD AWS_VPC
@@ -17,11 +17,11 @@ Let's get a quick overview of Virtual Private Cloud (VPC) from an AWS certificat
 - What is an CIDR?
 - How do you assign CIDR blocks to VPC and Subnets?
 
-## AWS Certification - 25 PDF Cheat Sheets + Free Course
+## AWS Certification Study Material and Notes - 25 PDF Cheat Sheets
 
 Each cheat sheet contains:
 - FAQs and Tutorials with 5-20 slides
-- Notes to quickly review and prepare for certification exam
+- Study Material and Notes to quickly review and prepare for certification exam
 - Certification Exam Tips
 - Certification and Interview Scenario Questions
 

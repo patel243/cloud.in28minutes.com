@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      AWS Storage Gateway - File vs Tape vs Volume - Stored vs Cached - AWS Certification
+title:      AWS Storage Gateway - File vs Tape vs Volume - Stored vs Cached - AWS Certification Cheat Sheet
 date:       2020-09-21 00:31:19
 summary:    Let's get a quick overview of AWS Storage Gateway from an AWS certification perspective. We will look at important certification questions regarding AWS Storage Gateway. 
 categories:  AWS_CLOUD AWS_STORAGE
@@ -16,11 +16,11 @@ Let's get a quick overview of AWS Storage Gateway from an AWS certification pers
 - How is AWS Storage Gateway different from?
 - Compare Storage Gateway Options - AWS Storage File Gateway vs  AWS Storage Tape Gateway vs  AWS Storage Volume Gateway
 
-## AWS Certification - 25 PDF Cheat Sheets + Free Course
+## AWS Certification Study Material and Notes - 25 PDF Cheat Sheets
 
 Each cheat sheet contains:
 - FAQs and Tutorials with 5-20 slides
-- Notes to quickly review and prepare for certification exam
+- Study Material and Notes to quickly review and prepare for certification exam
 - Certification Exam Tips
 - Certification and Interview Scenario Questions
 

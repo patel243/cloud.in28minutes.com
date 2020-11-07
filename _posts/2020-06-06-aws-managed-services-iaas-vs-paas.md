@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Managed Services - IAAS vs PAAS - Shared Responsibility - AWS Certification
+title:      Managed Services - IAAS vs PAAS - Shared Responsibility - AWS Certification Cheat Sheet
 date:       2020-06-06 12:31:19
 summary:    Let's get a quick overview of Managed Services - IAAS and PAAS - from an AWS certification perspective. We will look at important certification questions regarding Managed Services - IAAS and PAAS. 
 categories:  AWS_CLOUD AWS_SERVICES
@@ -15,11 +15,11 @@ Let's get a quick overview of Managed Services - IAAS and PAAS - from an AWS cer
 - What are the different Managed Services provided by AWS?
 - What is Shared Responsibility Model?
 
-## AWS Certification - 25 PDF Cheat Sheets + Free Course
+## AWS Certification Study Material and Notes - 25 PDF Cheat Sheets
 
 Each cheat sheet contains:
 - FAQs and Tutorials with 5-20 slides
-- Notes to quickly review and prepare for certification exam
+- Study Material and Notes to quickly review and prepare for certification exam
 - Certification Exam Tips
 - Certification and Interview Scenario Questions
 

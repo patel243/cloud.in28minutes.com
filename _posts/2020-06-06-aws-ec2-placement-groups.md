@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      EC2 Placement Groups - AWS Certification
+title:      EC2 Placement Groups - AWS Certification Cheat Sheet
 date:       2020-06-06 12:31:19
 summary:    Let's get a quick overview of EC2 Placement Groups from an AWS certification perspective. We will look at important certification questions regarding EC2 Placement Groups.  We will look at the three types of EC2 Placement Groups - Cluster, Spread and Partition.
 categories:  AWS_CLOUD EC2
@@ -20,11 +20,11 @@ Let's understand the three types of EC2 Placement Groups
 - Why do you need EC2 Placement Groups?
 - When do you use Cluster, Spread and Partition EC2 Placement Groups?
 
-## AWS Certification - 25 PDF Cheat Sheets + Free Course
+## AWS Certification Study Material and Notes - 25 PDF Cheat Sheets
 
 Each cheat sheet contains:
 - FAQs and Tutorials with 5-20 slides
-- Notes to quickly review and prepare for certification exam
+- Study Material and Notes to quickly review and prepare for certification exam
 - Certification Exam Tips
 - Certification and Interview Scenario Questions
 

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Elastic Beanstalk - EB - AWS Certification
+title:      Elastic Beanstalk - EB - AWS Certification Cheat Sheet
 date:       2020-06-06 12:31:19
 summary:    Let's get a quick overview of Elastic Beanstalk from an AWS certification perspective. We will look at important certification questions regarding Elastic Beanstalk. 
 categories:  AWS_CLOUD AWS_COMPUTE
@@ -14,11 +14,11 @@ Let's get a quick overview of Elastic Beanstalk from an AWS certification perspe
 - Why do we need AWS Elastic Beanstalk?
 - When do you use AWS Elastic Beanstalk?
 
-## AWS Certification - 25 PDF Cheat Sheets + Free Course
+## AWS Certification Study Material and Notes - 25 PDF Cheat Sheets
 
 Each cheat sheet contains:
 - FAQs and Tutorials with 5-20 slides
-- Notes to quickly review and prepare for certification exam
+- Study Material and Notes to quickly review and prepare for certification exam
 - Certification Exam Tips
 - Certification and Interview Scenario Questions
 

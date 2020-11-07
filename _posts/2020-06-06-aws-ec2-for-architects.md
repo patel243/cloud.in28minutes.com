@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      EC2 Elastic Compute Cloud - For Architects - AWS Certification
+title:      EC2 Elastic Compute Cloud - For Architects - AWS Certification Cheat Sheet
 date:       2020-06-06 12:31:19
 summary:    Let's get a quick overview of EC2 from an AWS Architects certification perspective. We will look at important certification questions regarding EC2 Architecture. 
 categories:  AWS_CLOUD EC2
@@ -13,11 +13,11 @@ Let's get a quick overview of EC2 from an AWS Architects certification perspecti
 - What are the important factors about EC2 from an architecture stand point?
 - How do you scale EC2 instances?
 
-## AWS Certification - 25 PDF Cheat Sheets + Free Course
+## AWS Certification Study Material and Notes - 25 PDF Cheat Sheets
 
 Each cheat sheet contains:
 - FAQs and Tutorials with 5-20 slides
-- Notes to quickly review and prepare for certification exam
+- Study Material and Notes to quickly review and prepare for certification exam
 - Certification Exam Tips
 - Certification and Interview Scenario Questions
 

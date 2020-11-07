@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Migrating databases in AWS - Data Pipeline vs DMS vs SCT - AWS Certification
+title:      Migrating databases in AWS - Data Pipeline vs DMS vs SCT - AWS Certification Cheat Sheet
 date:       2020-07-15 12:31:19
 summary:    Let's get a quick overview of different options in migrating databases from/to AWS - Data Pipeline vs Database Migration Service DMS vs Schema Conversion Tool SCT. 
 categories:  AWS_CLOUD AWS_DATABASES
@@ -21,11 +21,11 @@ Let's get a quick overview of different options in migrating databases from/to A
 - [AWS Schema Conversion Tool](#aws-schema-conversion-tool)
 - [Database Migration Service VS Schema Conversion Tool](#database-migration-service-vs-schema-conversion-tool)
 
-## AWS Certification - 25 PDF Cheat Sheets + Free Course
+## AWS Certification Study Material and Notes - 25 PDF Cheat Sheets
 
 Each cheat sheet contains:
 - FAQs and Tutorials with 5-20 slides
-- Notes to quickly review and prepare for certification exam
+- Study Material and Notes to quickly review and prepare for certification exam
 - Certification Exam Tips
 - Certification and Interview Scenario Questions
 

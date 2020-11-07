@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Public Subnet vs Private Subnet - Routing and Internet Gateway - AWS Certification
+title:      Public Subnet vs Private Subnet - Routing and Internet Gateway - AWS Certification Cheat Sheet
 date:       2020-09-12 12:31:19
 summary:    Let's get a quick overview of Public Subnet vs Private Subnet from an AWS certification perspective. We will look at important certification questions regarding Public Subnet vs Private Subnet. 
 categories:  AWS_CLOUD AWS_VPC
@@ -19,11 +19,11 @@ Let's get a quick overview of Public Subnet vs Private Subnet from an AWS certif
 - What are Route Tables?
 - How does Routing happen inside AWS?
 
-## AWS Certification - 25 PDF Cheat Sheets + Free Course
+## AWS Certification Study Material and Notes - 25 PDF Cheat Sheets
 
 Each cheat sheet contains:
 - FAQs and Tutorials with 5-20 slides
-- Notes to quickly review and prepare for certification exam
+- Study Material and Notes to quickly review and prepare for certification exam
 - Certification Exam Tips
 - Certification and Interview Scenario Questions
 

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Amazon S3 Storage Classes - Standard vs Standard-IA vs One Zone vs Intelligent-Tiering vs Glacier - AWS Certification
+title:      Amazon S3 Storage Classes - Standard vs Standard-IA vs One Zone vs Intelligent-Tiering vs Glacier - AWS Certification Cheat Sheet
 date:       2020-07-03 12:31:19
 summary:    Let's get a quick overview of Amazon S3 Storage Classes from an AWS certification perspective. We will look at important certification questions regarding Amazon S3 Storage Classes. 
 categories:  AWS_CLOUD AWS_STORAGE
@@ -16,11 +16,11 @@ Let's get a quick overview of Amazon S3 Storage Classes from an AWS certificatio
 - When do we use Amazon S3 Storage Classes?
 - Differences and Comparison of Amazon S3 Storage Classes - Standard vs Intelligent Tiering vs Standard IA vs One Zone IA vs Glacier vs Glacier Deep Archive
 
-## AWS Certification - 25 PDF Cheat Sheets + Free Course
+## AWS Certification Study Material and Notes - 25 PDF Cheat Sheets
 
 Each cheat sheet contains:
 - FAQs and Tutorials with 5-20 slides
-- Notes to quickly review and prepare for certification exam
+- Study Material and Notes to quickly review and prepare for certification exam
 - Certification Exam Tips
 - Certification and Interview Scenario Questions
 
